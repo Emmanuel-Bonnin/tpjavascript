@@ -14,7 +14,7 @@ let Cantidadmaxima = 30;
 
 for(i = 1; i<=cantidadDeProductos; i++){
 Cantidadmaxima += i
-    document.write(cantidadDeProductos +"<br>"+"Productos")
+    document.write(cantidadDeProductos + "<br>"+ "Productos")
 }
 
 //while
